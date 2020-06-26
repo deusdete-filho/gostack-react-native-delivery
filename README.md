@@ -27,7 +27,7 @@ This project was developed with the following technologies:
 
 ## :mailbox_with_mail: Get in touch!
 
-<a href="https://www.linkedin.com/in/deusdeusdetefilhod/" target="_blank" >
+<a href="https://www.linkedin.com/in/deusdeusdetefilho/" target="_blank" >
   <img alt="Linkedin - Deusdete Filho" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:deusdetefilho@gmail.com" target="_blank" >
