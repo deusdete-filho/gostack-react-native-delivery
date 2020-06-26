@@ -17,13 +17,16 @@
     "@testing-library/jest-native": "^3.1.0",
     "@testing-library/react-native": "^5.0.3",
     "axios": "^0.19.2",
+    "babel-plugin-module-resolver": "^4.0.0",
     "intl": "^1.2.5",
     "react": "16.11.0",
+    "react-dom": "^16.13.1",
     "react-native": "0.62.2",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-safe-area-context": "^3.0.2",
     "react-native-screens": "^2.8.0",
     "react-native-vector-icons": "^6.6.0",
+    "react-native-web": "^0.12.3",
     "styled-components": "^5.1.1"
   },
   "devDependencies": {
@@ -57,6 +60,7 @@
     "react-test-renderer": "16.11.0",
     "supertest": "^4.0.2",
     "ts-jest": "^26.1.0",
-    "typescript": "^3.8.3"
+    "typescript": "^3.8.3",
+    "webpack": "^4.43.0"
   }
 }
